@@ -1,0 +1,27 @@
+C:\Users\shami\source\repos\cafe management\cafe management\bin\Debug\cafe management.exe.config
+C:\Users\shami\source\repos\cafe management\cafe management\bin\Debug\cafe management.exe
+C:\Users\shami\source\repos\cafe management\cafe management\bin\Debug\cafe management.pdb
+C:\Users\shami\source\repos\cafe management\cafe management\obj\Debug\cafe management.csproj.AssemblyReference.cache
+C:\Users\shami\source\repos\cafe management\cafe management\obj\Debug\cafe_management.Form1.resources
+C:\Users\shami\source\repos\cafe management\cafe management\obj\Debug\cafe_management.Properties.Resources.resources
+C:\Users\shami\source\repos\cafe management\cafe management\obj\Debug\cafe management.csproj.GenerateResource.cache
+C:\Users\shami\source\repos\cafe management\cafe management\obj\Debug\cafe management.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\cafe management\cafe management\obj\Debug\cafe management.exe
+C:\Users\shami\source\repos\cafe management\cafe management\obj\Debug\cafe management.pdb
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\bin\Debug\cafe management.exe.config
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\bin\Debug\cafe management.exe
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\bin\Debug\cafe management.pdb
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\obj\Debug\cafe management.csproj.AssemblyReference.cache
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\obj\Debug\cafe_management.Form1.resources
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\obj\Debug\cafe_management.Properties.Resources.resources
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\obj\Debug\cafe management.csproj.GenerateResource.cache
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\obj\Debug\cafe management.csproj.CoreCompileInputs.cache
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\obj\Debug\cafe management.exe
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\obj\Debug\cafe management.pdb
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\bin\Debug\CircularProgressBar.dll
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\bin\Debug\WinFormAnimation.dll
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\bin\Debug\CircularProgressBar.xml
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\bin\Debug\WinFormAnimation.xml
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\obj\Debug\cafe_management.splash.resources
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\obj\Debug\cafe management.csproj.CopyComplete
+C:\Users\shami\OneDrive\Desktop\c#\cafe management\obj\Debug\cafe_management.Login.resources
